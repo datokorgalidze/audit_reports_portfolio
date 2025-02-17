@@ -14,6 +14,5 @@ Smart contract security is critical in DeFi, NFTs, and blockchain applications. 
 ## About Me
   👨‍💻 David Korgalidze
   🔗 [LinkedIn](https://www.linkedin.com/in/dato-korgalidze/)
-  📍 Blockchain & Smart Contract Security Auditor
-
+  
 If you find my work valuable, feel free to ⭐ star this repo! 🚀
